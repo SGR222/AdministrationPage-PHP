@@ -54,17 +54,9 @@ LedenadministratieApp is a modern web application for managing families, members
 
 ---
 
-## Common Issues & Solutions
-
-- **Login not working:** Check for case sensitivity and spaces in the database. The comparison is case-insensitive.
-- **Delete not working:** Ensure the CSRF token is present in the form and the correct controller handles the action.
-- **Table header not fully colored:** Make sure the number of `<th>` in the header matches the number of `<td>` in the rows.
-
----
-
 ## Credits
 
-- Developed by [your name/team].
+- Developed by Sergio Gómez Ruiz.
 - Styling inspired by modern admin templates.
 
 ---
